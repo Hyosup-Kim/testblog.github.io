@@ -1,5 +1,5 @@
 ---
-title: TemporaryBlogPost
+title: TemporaryBlogPost-1
 date: 2025-06-06
 ---
 
